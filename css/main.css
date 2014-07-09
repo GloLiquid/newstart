@@ -1,0 +1,141 @@
+/***************************************
+GENERAL
+****************************************/
+
+#wrapper {
+	max-width: 940px;
+	margin:0 auto;
+	padding: 0 5%;
+}
+
+a {
+	text-decoration: none;
+}
+
+input {
+	border: 3px solid #cccccc;
+	border-radius: 5px;
+	padding: 5px;
+	max-width: 100%;
+}
+
+
+
+/***************************************
+HEADING
+****************************************/
+
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+h1 {
+	font: 'FF-Speak-Web', sans-serif normal 1em 1.5em;
+	text-align: center;
+}
+
+h2 {
+	font: 'ff-effra', sans-serif normal 0.75em 1.5em;
+	text-align: center;
+}
+
+
+
+/***************************************
+NAVIGATION
+****************************************/
+
+
+
+
+/***************************************
+FOOTER
+****************************************/
+
+footer {
+	font-size: 0.75em;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+}
+
+
+
+/***************************************
+PAGE: START
+****************************************/
+
+h3 {
+	font: 'ff-effra', sans-serif 2em 1.5em;
+	margin: 0px;
+	text-align: center;
+}
+
+h4{
+	font: 'ff-effra', sans-serif 1.25em 1.5em;
+	margin: 0 0 10px;
+	text-align: center;
+}
+
+.todayprompt {
+	font: 'ff-effra', sans-serif 2em;
+	text-align: center;	
+}
+
+.task {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+/***************************************
+COLORS
+****************************************/
+
+/* site body */
+body {
+	background-color: #fff;
+	color: #999;
+}
+
+/* blue header */
+header {
+	background: #fff;
+	border-color: #fff;
+}
+
+/* nav background on mobile */
+nav {
+	background: #17405C;
+}
+
+/* logo text */
+h1, h2 {
+	color: #2e80b9;
+}
+
+/* page headers */
+
+h3 {
+	color: #5A9CC5;
+}
+
+h4 {
+
+	color: #5A9CC5;
+}
+
+/* footer */
+footer {
+color: #ccc;
+}

@@ -1,7 +1,7 @@
-//Problem: Toomuch info on screen at once.
-//Solution: Hide and show questions at appropriate times
+//Problem: Hints are shown even when form is valid
+//Solution: Hide and show them at appropriate times
 //hide hints
-$("#today").hide();
+$("form span").hide();
     //Find out if password is valid  
       //Hide hint if valid
       //else show hint
